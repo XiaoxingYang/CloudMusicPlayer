@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Sun JDK 1.6.0_13">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/servlet-api-2.5-6.1.5.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/jets3t-0.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/java-xmlbuilder-0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Courses/distributed system/CW/CloudMusicPlayerDemo/libs/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/java-xmlbuilder-0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/jets3t-0.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="E:/Workspaces/CourseWork/WebContent/WEB-INF/lib/servlet-api-2.5-6.1.5.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
